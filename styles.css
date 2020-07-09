@@ -1,0 +1,20 @@
+    /*No Margin after Navbar, Removes rounded corners*/
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+      border-style: solid;
+      border-width: 2px;
+      border-color: white;
+      border-bottom-color: black;
+    }
+    /*footer that stays at bottom*/
+    .footer {
+      background-color: lightgray;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+    }
+    .title {
+      font-size: 25px;
+      font-family: 'Balsamiq Sans', cursive;
+    }
